@@ -17,7 +17,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 220px></picture>
 
 - :school: Soy un `Estudiante` de [Ingenieria informática](https://www.upv.es/titulaciones/GII/) en la [UPV](https://www.upv.es/)
-- :technologist:  `Desarrollo Backend` **&** `Computación en la nube`
+- :technologist:  `Desarrollo` **&** `Computación en la nube`
 - :email: **Contactame**  [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=jmv&amp;color=EA4335&amp;style=flat-square)](mailto:jmarvar18535@gmail.com)
 - :nerd_face: Continuamente `estudiando`
 
