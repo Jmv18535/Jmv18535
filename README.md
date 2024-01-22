@@ -18,7 +18,7 @@
 
 - :school: Soy un `Estudiante` de [Ingenieria informática](https://www.upv.es/titulaciones/GII/) en la [UPV](https://www.upv.es/)
 - :email: **Contactame**  [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=jmv&amp;color=EA4335&amp;style=flat-square)](mailto:jmarvar18535@gmail.com)
-- :nerd_face: Continuamente `estudiando`
+- :nerd_face: Continuamente `aprendiendo`
 
 <br>
 
